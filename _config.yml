@@ -1,0 +1,14 @@
+layout_spectrum: 0.5602700195740908
+typography_spectrum: 0.6917124907486141
+color:
+  brandStrength: 0.7111463351175189
+  lightness: 0.9699377790093422
+  saturation: 0.9420749973505735
+  rhythmicContrast: 0.6515169204212725
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: claudette
